@@ -16,12 +16,9 @@ const About = () => {
           indulge in exceptional flavors, our team is dedicated to making your
           visit unforgettable.
         </p>
-        <a
-          href='#menu'
-          className='inline-block px-6 py-3 text-white bg-primary hover:bg-primary-dark rounded-md text-lg'
-        >
+        <button className='btn btn-primary mx-auto xl:mx-0'>
           Explore Our Menu
-        </a>
+        </button>
       </div>
 
       <div className='lg:w-1/2 mt-8 lg:mt-0'>

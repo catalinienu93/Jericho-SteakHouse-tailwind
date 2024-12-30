@@ -82,13 +82,10 @@ const SignatureDishes = () => {
         </div>
       </div>
 
-      <div className='text-center mt-12'>
-        <a
-          href='#menu'
-          className='px-6 py-3 bg-primary text-white rounded-md text-lg hover:bg-primary-dark'
-        >
+      <div className='flex justify-center mt-12'>
+        <button className='btn btn-primary mx-auto xl:mx-0'>
           See Full Menu
-        </a>
+        </button>
       </div>
     </div>
   );

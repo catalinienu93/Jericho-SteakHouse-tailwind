@@ -57,15 +57,6 @@ function Review() {
             </p>
           </div>
         </div>
-
-        <div className='text-center mt-12'>
-          <a
-            href='#reservations'
-            className='px-6 py-3 bg-primary text-white rounded-md text-lg hover:bg-primary-dark'
-          >
-            Make a Reservation
-          </a>
-        </div>
       </div>
     </section>
   );

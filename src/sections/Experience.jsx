@@ -23,12 +23,11 @@ const Experience = () => {
               cocktails and our warm, attentive service. From the moment you
               step through our doors, you`ll feel the Jericho difference.
             </p>
-            <a
-              href='#reservations'
-              className='inline-block px-6 py-3 bg-primary text-white rounded-md text-lg hover:bg-primary-dark'
-            >
-              Book Your Table
-            </a>
+            <div className='flex justify-center'>
+              <button className='btn btn-primary mx-auto xl:mx-0'>
+                Book Your Table
+              </button>
+            </div>
           </div>
 
           <div className='lg:w-1/2'>
