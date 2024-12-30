@@ -30,7 +30,7 @@ const App = () => {
       <section>
         <Reservation />
       </section>
-      <section className='review mt-[80px] xl:mt-[200px] relative z-20'>
+      <section className='review'>
         <Review />
       </section>
       <section className='bg-primary py-12'>
